@@ -19,10 +19,6 @@
 - **Symptom Checker Healthcare App**  
   AI-powered healthcare solution with hospital booking and telemedicine.  
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udhaykrishna&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=udhaykrishna&theme=radical)  
-
 ## 🌱 Currently Learning  
 - 📚 Flutter for cross-platform mobile development  
 - 🍎 Swift for iOS app development  
@@ -30,3 +26,6 @@
 ## 📫 Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/udhay-krishna-432a06283)  
 - 📧 [Email Me](mailto:work.udhaykrishna@gmail.com)  
+
+## 📈 GitHub Stats  
+![GitHub Streak](https://streak-stats.demolab.com/?user=udhaykrishna&theme=radical)  
