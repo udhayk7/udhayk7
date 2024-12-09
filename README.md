@@ -10,14 +10,15 @@
 - **Data Analysis**: Pandas, NumPy, Matplotlib  
 
 ## 🛠️ Featured Projects  
-- **[Artifresh E-Commerce Platform](https://artifresh-melia3580.softr.app)**  
-  Connecting farmers and artisans directly with consumers.  
 
 - **Smart Fluid Container**  
   A water quality monitoring system with mobile app integration.  
 
 - **Symptom Checker Healthcare App**  
   AI-powered healthcare solution with hospital booking and telemedicine.  
+
+- **[Artifresh E-Commerce Platform](https://artifresh-melia3580.softr.app)**  
+  Connecting farmers and artisans directly with consumers.  
 
 ## 🌱 Currently Learning  
 - 📚 Flutter for cross-platform mobile development  
