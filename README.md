@@ -22,8 +22,6 @@
 - 🍎 Swift for iOS app development  
 
 ## 📫 Let’s Connect!  
-- 💼 [LinkedIn](https://www.linkedin.com/in/udhay-krishna-432a06283)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/udhay-krishna-432a06283)
+- 👨🏻‍💻- [Portfolio](https://udhaykrishna.netlify.app/)
 - 📧 [Email Me](mailto:work.udhaykrishna@gmail.com)  
-
-## 📈 GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=udhaykrishna&theme=radical)  
