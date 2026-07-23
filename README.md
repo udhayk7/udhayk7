@@ -4,13 +4,11 @@
 
 ### AI Engineer • Full Stack Developer • Startup Founder
 
-Building AI products that solve real-world healthcare problems.
+Building intelligent AI products that solve real-world healthcare problems.
 
-<p>
-<a href="https://komarev.com/ghpvc/?username=udhayk7&style=for-the-badge">
-<img src="https://komarev.com/ghpvc/?username=udhayk7&style=for-the-badge" />
-</a>
-</p>
+[Portfolio](https://udhaykrishna.netlify.app) •
+[LinkedIn](https://www.linkedin.com/in/udhaykrishna) •
+[Email](mailto:work.udhaykrishna@gmail.com)
 
 </div>
 
@@ -20,14 +18,14 @@ Building AI products that solve real-world healthcare problems.
 
 - 🧠 Founder & CEO — **Ugenix Technologies LLP**
 - 🤖 AI Engineer specializing in **LLMs, Generative AI & Multi-Agent Systems**
-- 💻 Full Stack Developer (FastAPI • React • Flutter)
-- 🏥 Building **NeuroWell**, an AI-powered EEG Cognitive Health Platform
-- 🏆 Winner of multiple National-Level Hackathons
-- 📚 B.Tech Computer Science @ College of Engineering Kallooppara
+- 💻 Full Stack Developer using **FastAPI, React & Flutter**
+- 🏥 Building **NeuroWell**, an EEG-based Cognitive Health Platform
+- 🏆 Winner and podium finisher at multiple National-Level Hackathons
+- 🎓 B.Tech Computer Science @ College of Engineering Kallooppara
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
@@ -41,14 +39,9 @@ Building AI products that solve real-world healthcare problems.
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis,docker,firebase" />
 </p>
 
-**Generative AI**
-- OpenAI
-- Gemini
-- LangChain
-- LangGraph
-- Whisper
-- NLP
-- Multi-Agent Systems
+**AI Technologies**
+
+`OpenAI` • `Gemini` • `LangChain` • `LangGraph` • `NLP` • `Whisper` • `Multi-Agent Systems`
 
 ### Frontend
 
@@ -64,41 +57,25 @@ Building AI products that solve real-world healthcare problems.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🧠 NeuroWell
-
+### 🧠 NeuroWell
 Machine learning platform for EEG-based cognitive assessment using wearable devices and intelligent analytics.
 
----
+### 🤖 ProtoPilot AI
+Multi-Agent LLM platform that transforms product ideas into technical architecture, MVPs, and execution roadmaps.
 
-## 🤖 ProtoPilot AI
+### 🏥 MediBharat
+Healthcare platform for AI-powered medical report summarization, symptom analysis, and clinical decision support.
 
-Multi-Agent LLM platform that converts product ideas into technical architecture, MVPs and execution plans.
-
----
-
-## 🏥 MediBharat
-
-Healthcare platform for AI-powered medical report summarization, symptom analysis and clinical decision support.
+### 🌱 NutriGuard
+Personalized AI nutrition recommendation platform.
 
 ---
 
-## 🥗 NutriGuard
+## 🏆 Achievements
 
-Personalized nutrition recommendation system powered by AI.
-
----
-
-## 🌊 AquaSentinel
-
-IoT water quality monitoring platform with AI analytics.
-
----
-
-# 🏆 Achievements
-
-- 🥈 Runner-Up — One AI Hackathon (₹1.25 Lakh Startup Prize)
+- 🥈 Runner-Up — One AI Hackathon (₹1.25 Lakh Startup Award)
 - 🥇 Genesis National Hackathon Winner
 - 🥉 Hackatly 3.0 — 2nd Runner-Up
 - 🥇 IEEE SparkUp Winner
@@ -109,13 +86,13 @@ IoT water quality monitoring platform with AI analytics.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=udhayk7&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=udhayk7&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=udhayk7&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=udhayk7&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -127,27 +104,7 @@ IoT water quality monitoring platform with AI analytics.
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=udhayk7&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📋 GitHub Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udhayk7&theme=github_dark"/>
-
-</p>
-
----
-
-# 🌐 Connect
+## 🌐 Connect
 
 <p align="center">
 
@@ -155,13 +112,19 @@ IoT water quality monitoring platform with AI analytics.
 LinkedIn
 </a>
 
-•
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://github.com/udhayk7">
+GitHub
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
 
 <a href="https://udhaykrishna.netlify.app">
 Portfolio
 </a>
 
-•
+&nbsp;&nbsp;•&nbsp;&nbsp;
 
 <a href="mailto:work.udhaykrishna@gmail.com">
 Email
@@ -173,6 +136,6 @@ Email
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
 </div>
