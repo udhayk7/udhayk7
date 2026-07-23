@@ -1,53 +1,178 @@
-# 👋 Hi there, I'm Udhay Krishna  
+<div align="center">
 
-🚀 **B.Tech student** | 💻 **Web Developer** | 📊 **Data Analyst**  
-🌟 Passionate about crafting efficient, scalable solutions to real-world problems.  
+# Hi, I'm Udhay Krishna 👋
 
-## 🔧 Skills  
-- **Languages**: Python, JavaScript, SQL  
-- **Web Development**: React, FastAPI, PostgreSQL  
-- **Tools**: Git, Docker, Firebase  
-- **Data Analysis**: Pandas, NumPy, Matplotlib  
+### AI Engineer • Full Stack Developer • Startup Founder
 
-## 🛠️ Featured Projects  
+Building AI products that solve real-world healthcare problems.
 
-Healthcare Nutrition
+<p>
+<a href="https://komarev.com/ghpvc/?username=udhayk7&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=udhayk7&style=for-the-badge" />
+</a>
+</p>
 
-• NutriGuard (Personalized Nutrition App) – 2023 AI-powered diet and nutrition recommendation
-system that analyzes user health data to suggest personalized meal plans.
+</div>
 
-• Healthcare Web App – Nov 2024 (Ongoing) AI-powered symptom analysis, hospital finder, and
-appointment booking. Stores and transfers medical history for better treatment. Future integration with
-smartwatches for real-time health monitoring.
+---
 
-• MediBharat - Health Record Management App – Jan 2025 (Ongoing) Provides a secure platform
-for uploading, managing, and sharing medical reports. AI-driven summaries highlight key findings for
-easier understanding. Ensures patient data privacy while allowing hospitals streamlined access to reports.
+## 🚀 About Me
 
-• Health Record Management App (Innovate Hackathon) – Jan 2025 Enables users to upload
-and manage medical reports (blood tests, CT scans, X-rays). AI summarizes reports, highlighting key
-findings. Patients control data privacy, and hospitals access streamlined reports.
+- 🧠 Founder & CEO — **Ugenix Technologies LLP**
+- 🤖 AI Engineer specializing in **LLMs, Generative AI & Multi-Agent Systems**
+- 💻 Full Stack Developer (FastAPI • React • Flutter)
+- 🏥 Building **NeuroWell**, an AI-powered EEG Cognitive Health Platform
+- 🏆 Winner of multiple National-Level Hackathons
+- 📚 B.Tech Computer Science @ College of Engineering Kallooppara
 
-Smart Systems IoT
+---
 
-• AquaSentinel – Smart Water Monitoring System (Dec 2024 - Ongoing) Monitors water quality,
-level, pH, and purity in real-time. Detects germs and integrates with a mobile app. Future plans include
-solar-powered operation.
+# 💻 Tech Stack
 
-• Smart Agricultural Monitoring System (IIT Madras Hackathon) – Jan 2025 Uses sensors and
-AI to track soil health, moisture, and crop conditions. Helps farmers optimize irrigation and fertilizer
-use. Mobile app for real-time insights.
+### Languages
 
-Web Software Development
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,dart,java,cpp,html,css,sql" />
+</p>
 
-• Full-Stack E-commerce Website (Productathon) – Oct 2024 Built a platform for farmers and
-artisans to sell fresh and handmade products with location-based product discovery.
+### AI & Backend
 
-## 🌱 Currently Learning  
-- 📚 Flutter for cross-platform mobile development  
-- 🍎 Swift for iOS app development  
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis,docker,firebase" />
+</p>
 
-## 📫 Let’s Connect!  
-- 💼 [LinkedIn](https://www.linkedin.com/in/udhay-krishna-432a06283)
-- 👨🏻‍💻- [Portfolio](https://udhaykrishna.netlify.app/)
-- 📧 [Email Me](mailto:work.udhaykrishna@gmail.com)  
+**Generative AI**
+- OpenAI
+- Gemini
+- LangChain
+- LangGraph
+- Whisper
+- NLP
+- Multi-Agent Systems
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 NeuroWell
+
+Machine learning platform for EEG-based cognitive assessment using wearable devices and intelligent analytics.
+
+---
+
+## 🤖 ProtoPilot AI
+
+Multi-Agent LLM platform that converts product ideas into technical architecture, MVPs and execution plans.
+
+---
+
+## 🏥 MediBharat
+
+Healthcare platform for AI-powered medical report summarization, symptom analysis and clinical decision support.
+
+---
+
+## 🥗 NutriGuard
+
+Personalized nutrition recommendation system powered by AI.
+
+---
+
+## 🌊 AquaSentinel
+
+IoT water quality monitoring platform with AI analytics.
+
+---
+
+# 🏆 Achievements
+
+- 🥈 Runner-Up — One AI Hackathon (₹1.25 Lakh Startup Prize)
+- 🥇 Genesis National Hackathon Winner
+- 🥉 Hackatly 3.0 — 2nd Runner-Up
+- 🥇 IEEE SparkUp Winner
+- 🥉 Innovate 2.0 — 2nd Runner-Up
+- 🥈 Intersect '26 Healthcare Hackathon
+- 🏅 IIT Madras Hackathon Finalist (Top 20)
+- 🇮🇳 Viksit Bharat Young Leaders Dialogue Delegate
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=udhayk7&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=udhayk7&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayk7&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=udhayk7&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📋 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udhayk7&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/udhaykrishna">
+LinkedIn
+</a>
+
+•
+
+<a href="https://udhaykrishna.netlify.app">
+Portfolio
+</a>
+
+•
+
+<a href="mailto:work.udhaykrishna@gmail.com">
+Email
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
