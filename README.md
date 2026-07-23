@@ -88,36 +88,28 @@ Personalized AI nutrition recommendation platform.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=udhayk7&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=udhayk7&theme=github-dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=udhayk7&show_icons=true&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayk7&layout=compact&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayk7&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayk7&layout=compact&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400"/>
 ## 🌐 Connect
 
 <p align="center">
-
-<a href="https://github.com/udhayk7">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/udhaykrishna">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="https://udhaykrishna.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
-</a>
-
-<a href="mailto:work.udhaykrishna@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/udhayk7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/udhaykrishna">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://udhaykrishna.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+  </a>
+  <a href="mailto:work.udhaykrishna@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
----
 
 <div align="center">
 
