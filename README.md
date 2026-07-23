@@ -85,15 +85,6 @@ Personalized AI nutrition recommendation platform.
 - 🇮🇳 Viksit Bharat Young Leaders Dialogue Delegate
 
 ---
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=udhayk7&show_icons=true&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayk7&layout=compact&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayk7&layout=compact&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400"/>
 ## 🌐 Connect
 
 <p align="center">
@@ -110,7 +101,6 @@ Personalized AI nutrition recommendation platform.
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
 <div align="center">
 
 ⭐ Thanks for visiting my profile!
